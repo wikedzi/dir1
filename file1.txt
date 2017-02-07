@@ -1,1 +1,2 @@
 This is the sample file
+Some text has been added and this is the text
